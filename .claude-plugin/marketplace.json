@@ -1,0 +1,17 @@
+{
+  "name": "delivery-business",
+  "owner": {
+    "name": "Mohit Malik",
+    "url": "https://yoursonly.ai"
+  },
+  "metadata": {
+    "description": "Open-source skills from the AI-Native, One Person at a Time series: delivery business."
+  },
+  "plugins": [
+    {
+      "name": "delivery-business",
+      "source": "./",
+      "description": "Normalize partner data, find actionables per outlet, and track actuals against your AOP."
+    }
+  ]
+}

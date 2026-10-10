@@ -1,0 +1,10 @@
+{
+  "name": "delivery-business",
+  "version": "1.0.0",
+  "description": "Skills that turn scattered delivery-partner data (marketplaces, ad platforms) into one dataset, daily action lists per outlet, and an AOP tracker.",
+  "author": { "name": "Mohit Malik", "url": "https://yoursonly.ai" },
+  "homepage": "https://github.com/malimo/delivery-business",
+  "repository": "https://github.com/malimo/delivery-business",
+  "license": "MIT",
+  "keywords": ["delivery", "analytics", "etl", "dashboards", "aop", "ai-native"]
+}
