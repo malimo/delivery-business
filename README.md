@@ -17,7 +17,7 @@ No company data is included. The skills don't assume anything about your busines
 
 **Claude Code**
 ```
-/plugin marketplace add malimo/delivery-business
+/plugin marketplace add yoursonlyorg/delivery-business
 /plugin install delivery-business@delivery-business
 ```
 Then start with:
