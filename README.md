@@ -2,7 +2,7 @@
 
 Your team gets the same kind of data from Swiggy, Zomato, Uber Eats, DoorDash, ad platforms and your POS, each in a different format. Most of the week goes into collating it and refreshing dashboards, and very little goes into acting on it.
 
-These skills are generic versions of the ones a two-person delivery team built to fix that, without an engineering background. They come from post #1 of **AI-Native, One Person at a Time**, a LinkedIn series by [Mohit Malik](https://yoursonly.ai).
+These skills are generic versions of the ones a two-person delivery team built to fix that, without an engineering background. They come from post #1 of **AI-Native, One Person at a Time**, a series by [yoursonly.ai](https://yoursonly.ai) (@yoursonly_ai on Instagram and YouTube).
 
 No company data is included. The skills don't assume anything about your business: they ask you, and save your answers in a `business-context/` folder that every skill reads.
 
@@ -17,7 +17,7 @@ No company data is included. The skills don't assume anything about your busines
 
 **Claude Code**
 ```
-/plugin marketplace add malimo/delivery-business
+/plugin marketplace add yoursonlyorg/delivery-business
 /plugin install delivery-business@delivery-business
 ```
 Then start with:
